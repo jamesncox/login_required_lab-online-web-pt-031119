@@ -1,6 +1,6 @@
-class SecretsController < ApplicationController 
+class SecretsController < ApplicationController
   before_action :require_logged_in
 
-  def show 
-  end 
+  def show
+  end
 end 
